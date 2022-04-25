@@ -18,6 +18,7 @@
   },
   "homepage": "",
   "dependencies": {
+    "heroku": "^7.60.0",
     "json-server": "^0.16.3"
   }
 }
