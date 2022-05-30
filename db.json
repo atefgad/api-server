@@ -591,6 +591,38 @@
       "name": { "firstname": "jimmie", "lastname": "klein" },
       "phone": "1-104-001-4567",
       "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "30.24788", "long": "-20.545419" },
+        "city": "giza",
+        "street": "ahmed bn ali",
+        "number": 506,
+        "zipcode": "14532"
+      },
+      "id": 11,
+      "email": "test@gmail.com",
+      "username": "test",
+      "password": "test123",
+      "name": { "firstname": "demo", "lastname": "user" },
+      "phone": "1-104-001-4567",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": { "lat": "30.24788", "long": "-20.545419" },
+        "city": "cairo",
+        "street": "abass",
+        "number": 506,
+        "zipcode": "14532"
+      },
+      "id": 12,
+      "email": "atef@gmail.com",
+      "username": "atef",
+      "password": "atef123",
+      "name": { "firstname": "atef", "lastname": "gad" },
+      "phone": "1-104-001-4567",
+      "__v": 0
     }
   ]
 }
